@@ -18,11 +18,11 @@ flowchart TD
     G --> H[Recall]
 ```
 
-The important strategic consequence is that you usually stop taking agent turns only when your remaining cards are more valuable as reveal than as board access.
+The important strategic consequence is that you usually stop taking [[Dune/Agents and Worker Placement|agent turns]] only when your remaining [[Dune/Deck Building and Card Quality|cards]] are more valuable as reveal than as board access.
 
 Taking a Reveal turn early can be correct, but only if the reveal creates more value than the lost agent action.
 
-Use [[Game Phase Identification|Dune Imperium Game Phase Identification]] before applying the checklist. The same turn step means different things when players are still buying infrastructure, when they are converting setup into points, and when someone can end the game.
+Use [[Dune/Game Phase Identification|Dune Imperium Game Phase Identification]] before applying the checklist. The same turn step means different things when players are still buying infrastructure, when they are converting setup into points, and when someone can end the game.
 
 ## Round Start
 
@@ -38,7 +38,7 @@ What to check:
 
 Early game:
 
-- Conflict I rewards are usually not worth emptying your garrison for unless they accelerate Swordmaster, High Council, or a key influence plan.
+- Conflict I rewards are usually not worth emptying your garrison for unless they accelerate [[Dune/Swordmaster|Swordmaster]], [[Dune/High Council|High Council]], or a key [[Dune/Faction Tracks and Alliances|influence]] plan.
 - Use the hand to identify your first two agent turns and whether you can build toward a third.
 - Bludgeon's basic opening example treats early economy actions as setup for Swordmaster, not as points by themselves.
 
@@ -46,13 +46,13 @@ Middle game:
 
 - Conflicts start becoming real conversion points.
 - Check whether your hand can support both economy and conflict, or whether you must choose one.
-- If you are on a High Council route, start checking whether this hand or the next shuffle can reach The Spice Must Flow.
+- If you are on a [[Dune/High Council|High Council]] route, start checking whether this hand or the next shuffle can reach [[Dune/The Spice Must Flow|The Spice Must Flow]].
 
 Late game:
 
 - Treat the conflict reveal as a possible game-ending event.
 - Count who can reach 10 VP this round before choosing your first action.
-- Check whether this is the kind of round where Highliner, a doubled Uprising worm reward, or hidden intrigue can decide the game.
+- Check whether this is the kind of round where [[Dune/Highliner|Highliner]], a doubled Uprising worm reward, or hidden intrigue can decide the game.
 
 ## Agent Turns
 
@@ -68,9 +68,9 @@ What to check:
 
 Early game:
 
-- Prioritize setup actions: solari for Swordmaster, water/spice access, faction access, card draw, and deck improvement.
+- Prioritize setup actions: [[Dune/Solari|solari]] for [[Dune/Swordmaster|Swordmaster]], [[Dune/Water|water]]/[[Dune/Spice|spice]] access, faction access, card draw, and deck improvement.
 - Avoid spending troops just because a combat space is available.
-- In Ix games, watch whether the Interstellar Shipping or Smuggling lane is contested; pivot to water or another setup line if the solari race is blocked.
+- In [[Dune/Rise of Ix|Ix]] games, watch whether the Interstellar Shipping or Smuggling lane is contested; pivot to water or another setup line if the solari race is blocked.
 
 Middle game:
 
@@ -91,7 +91,7 @@ On your Reveal turn, you reveal the remaining cards for persuasion, combat, and 
 What to check:
 
 - Can I buy a card that improves my next shuffle?
-- Can I buy The Spice Must Flow?
+- Can I buy [[Dune/The Spice Must Flow|The Spice Must Flow]]?
 - Is my reveal combat enough to change conflict placement?
 - Would revealing now abandon a useful agent action?
 - Am I revealing before opponents who can still outbid me in combat?
@@ -100,19 +100,19 @@ Early game:
 
 - Buying one good access card can matter more than buying several average cards.
 - Revealing early is usually costly unless it secures a key card or avoids wasting an agent.
-- Prioritize faction-access cards such as Power Play-style effects when they fit your plan; access creates influence, and influence creates points.
+- Prioritize faction-access cards such as Power Play-style effects when they fit your plan; access creates [[Dune/Faction Tracks and Alliances|influence]], and influence creates points.
 
 Middle game:
 
 - Watch for deck direction. A reveal should either improve card quality, add scoring access, or support conflict.
-- If High Council is online, calculate The Spice Must Flow thresholds every round.
+- If [[Dune/High Council|High Council]] is online, calculate [[Dune/The Spice Must Flow|The Spice Must Flow]] thresholds every round.
 - Do not buy generic bulk. Bludgeon's card advice is plan-first: influence/persuasion cards for point buying, swords and troop effects for conflict lines.
 
 Late game:
 
-- Persuasion is mostly about points, not future engine.
+- [[Dune/Persuasion|Persuasion]] is mostly about points, not future engine.
 - A late reveal that cannot score should usually deny, win combat, or set up an unavoidable next-round point.
-- If you can buy The Spice Must Flow, assume that is the default unless a different action scores more or blocks the winner.
+- If you can buy [[Dune/The Spice Must Flow|The Spice Must Flow]], assume that is the default unless a different action scores more or blocks the winner.
 
 ## Combat
 
@@ -120,11 +120,11 @@ Combat resolves after all players have revealed.
 
 What to check:
 
-- Who still has combat intrigue cards?
+- Who still has [[Dune/Intrigue Cards|combat intrigue cards]]?
 - Did anyone reveal enough swords to change the auction?
 - Is first place necessary, or is second/third enough?
 - Will spending combat intrigue here expose me later?
-- In Uprising, can worms double the reward?
+- In [[Dune/Uprising|Uprising]], can worms double the reward?
 
 Early game:
 
@@ -141,26 +141,26 @@ Late game:
 
 - Combat is often a direct win condition.
 - Count hidden combat and intrigue risk before assuming a placement is safe.
-- Conflict III starts around round 7. If a future Conflict III is likely to matter, prepare troops and spice before the turn where everyone sees the reward.
-- Highliner often decides large conflicts, so six spice is a tactical threshold, not just an economy stockpile.
+- Conflict III starts around round 7. If a future Conflict III is likely to matter, prepare [[Dune/Troops|troops]] and [[Dune/Spice|spice]] before the turn where everyone sees the reward.
+- [[Dune/Highliner|Highliner]] often decides large conflicts, so six spice is a tactical threshold, not just an economy stockpile.
 
 ## Makers
 
-Maker spaces accumulate spice.
+Maker spaces accumulate [[Dune/Spice|spice]].
 
 What to check:
 
-- Did a spice space become large enough to justify water or action cost?
+- Did a spice space become large enough to justify [[Dune/Water|water]] or action cost?
 - Does taking spice now delay a point?
 - Can an opponent use the spice better than I can?
 
 Early game:
 
-- Spice can open strong economy lines, but it still needs a conversion plan.
+- [[Dune/Spice|Spice]] can open strong economy lines, but it still needs a conversion plan.
 
 Middle game:
 
-- Spice should turn into Highliner-style conflict pressure, faction movement, tech, or The Spice Must Flow support depending on the module.
+- Spice should turn into [[Dune/Highliner|Highliner]]-style conflict pressure, faction movement, tech, or [[Dune/The Spice Must Flow|The Spice Must Flow]] support depending on the module.
 
 Late game:
 
@@ -180,7 +180,7 @@ What to check:
 
 Early game:
 
-- Track who is closest to Swordmaster, High Council, or faction access.
+- Track who is closest to [[Dune/Swordmaster|Swordmaster]], [[Dune/High Council|High Council]], or faction access.
 
 Middle game:
 
@@ -189,3 +189,13 @@ Middle game:
 Late game:
 
 - Recount all visible and likely hidden points before the next Round Start.
+
+## Related
+
+- [[Dune/Game Phase Identification|Game Phase Identification]]
+- [[Dune/Agents and Worker Placement|Agents and Worker Placement]]
+- [[Dune/Deck Building and Card Quality|Deck Building and Card Quality]]
+- [[Dune/Combat and Conflicts|Combat and Conflicts]]
+- [[Dune/Late Game Checklist|Late Game Checklist]]
+- [[Dune/Swordmaster|Swordmaster]]
+- [[Dune/The Spice Must Flow|The Spice Must Flow]]

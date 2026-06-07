@@ -3,10 +3,11 @@ title: Dune Imperium Immortality
 tags:
   - Dune-Imperium
   - board-games
+  - Dune-Imperium/Expansions
 ---
 # Immortality
 
-Immortality is an expansion for base Dune: Imperium, centered on Bene Tleilax research and genetic manipulation.
+Immortality is an expansion for [[Dune/Dune Imperium Base Game|base Dune: Imperium]], centered on Bene Tleilax research and genetic manipulation.
 
 ## What It Adds
 
@@ -19,7 +20,7 @@ Immortality is an expansion for base Dune: Imperium, centered on Bene Tleilax re
 
 ## Strategic Shift
 
-Immortality makes deck manipulation and research timing more important. The research track gives immediate bonuses and unlocks genetic markers that improve future card effects.
+Immortality makes [[Dune/Deck Building and Card Quality|deck manipulation]] and research timing more important. The research track gives immediate bonuses and unlocks genetic markers that improve future card effects.
 
 ## Practical Notes
 
@@ -37,4 +38,13 @@ Bludgeon's Immortality card-ranking transcript repeatedly centers on four questi
 - Does the card help trash weak cards or cycle into stronger cards?
 - Does the specimen/research payoff become points quickly enough?
 
-The practical lesson is that Immortality rewards cleaner decks, but not every research card is automatically good. Research, graft, and specimens need to connect to a point route before the game ends.
+The practical lesson is that Immortality rewards cleaner decks, but not every research card is automatically good. Research, graft, and specimens need to connect to a [[Dune/Game Phase Identification|point route before the game ends]].
+
+## Related
+
+- [[Dune/Deck Building and Card Quality|Deck Building and Card Quality]]
+- [[Dune/Resource Economy|Resource Economy]]
+- [[Dune/Turn Sequence|Turn Sequence]]
+- [[Dune/Rise of Ix|Rise of Ix]]
+- [[Dune/Bludgeon Dune Imperium Notes|Bludgeon Dune Imperium Notes]]
+- [[Dune/Persuasion|Persuasion]]

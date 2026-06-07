@@ -6,7 +6,7 @@ tags:
 ---
 # Core Rules and Assumptions
 
-These notes use **Dune: Imperium** as the baseline unless a page explicitly says it is about **Uprising** or an expansion.
+These notes use [[Dune/Dune Imperium Base Game|Dune: Imperium]] as the baseline unless a page explicitly says it is about [[Dune/Uprising|Uprising]] or an expansion.
 
 ## Baseline
 
@@ -22,7 +22,7 @@ These notes use **Dune: Imperium** as the baseline unless a page explicitly says
 
 ## What Makes Dune: Imperium Different
 
-Cards are both action access and deck-building material. On an agent turn, a card's icons determine which board spaces you can use. On the reveal turn, unused cards provide persuasion, combat, and reveal effects.
+[[Dune/Deck Building and Card Quality|Cards]] are both action access and deck-building material. On an [[Dune/Agents and Worker Placement|agent turn]], a card's icons determine which board spaces you can use. On the [[Dune/Turn Sequence|reveal turn]], unused cards provide persuasion, [[Dune/Combat and Conflicts|combat]], and reveal effects.
 
 That creates the central tension:
 
@@ -35,3 +35,10 @@ Good play is often about sequencing the hand so you do not waste either side.
 - [[Dune/Rise of Ix|Rise of Ix]] and [[Dune/Immortality|Immortality]] were built for base Dune: Imperium.
 - [[Dune/Uprising|Uprising]] is a standalone sequel/reimplementation with spies, contracts, objectives, and worms.
 - [[Dune/Bloodlines|Bloodlines]] supports both base Dune: Imperium and Uprising, with different modules depending on the base used.
+
+## Related
+
+- [[Dune/Strategy Overview|Strategy Overview]]
+- [[Dune/Turn Sequence|Turn Sequence]]
+- [[Dune/Dune Imperium Base Game|Dune Imperium Base Game]]
+- [[Dune/Sources|Sources]]

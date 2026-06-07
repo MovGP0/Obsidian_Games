@@ -6,9 +6,9 @@ tags:
 ---
 # Intrigue Cards
 
-Intrigue cards are hidden leverage.
+Intrigue cards are hidden leverage, especially in [[Dune/Combat and Conflicts|combat]] and the [[Dune/Late Game Checklist|late game]].
 
-They can provide resources, influence, combat swings, tactical tricks, or endgame points. They are not part of your deck and can be checked at any time.
+They can provide [[Dune/Resource Economy|resources]], [[Dune/Faction Tracks and Alliances|influence]], combat swings, tactical tricks, or endgame points. They are not part of your [[Dune/Deck Building and Card Quality|deck]] and can be checked at any time.
 
 ## Types
 
@@ -27,3 +27,10 @@ Intrigue cards are strongest when they:
 - Give endgame direction.
 
 Do not hoard them blindly. Hidden cards are useful, but unused cards do not score unless they say they do.
+
+## Related
+
+- [[Dune/Combat and Conflicts|Combat and Conflicts]]
+- [[Dune/Late Game Checklist|Late Game Checklist]]
+- [[Dune/Faction Tracks and Alliances|Faction Tracks and Alliances]]
+- [[Dune/Common Mistakes|Common Mistakes]]

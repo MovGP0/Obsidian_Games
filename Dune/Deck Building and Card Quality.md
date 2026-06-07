@@ -6,23 +6,23 @@ tags:
 ---
 # Deck Building and Card Quality
 
-You start with the same 10-card deck as everyone else. The game diverges when players buy, trash, draw, and cycle differently.
+You start with the same 10-card deck as everyone else. The game diverges when players buy, trash, draw, and cycle differently through the [[Dune/Turn Sequence|turn sequence]].
 
 ## What Good Cards Do
 
 Prioritize cards that:
 
-- Give faction icons you need.
+- Give [[Dune/Faction Tracks and Alliances|faction]] icons you need.
 - Have strong agent boxes.
 - Have strong reveal value.
 - Draw cards or trash weak cards.
 - Generate resources without spending extra actions.
-- Help win conflicts efficiently.
-- Support The Spice Must Flow.
+- Help win [[Dune/Combat and Conflicts|conflicts]] efficiently.
+- Support [[Dune/The Spice Must Flow|The Spice Must Flow]].
 
 ## Faction Access
 
-Bludgeon's basic-strategy transcript calls out faction access as a key card-buying priority. That is sound: faction spaces produce influence, and influence creates points at 2 and alliance pressure at 4.
+Bludgeon's basic-strategy transcript calls out faction access as a key card-buying priority. That is sound: faction spaces produce [[Dune/Faction Tracks and Alliances|influence]], and influence creates points at 2 and alliance pressure at 4.
 
 Cards like Power Play are strong because they can open faction spaces and accelerate influence at the same time.
 
@@ -35,7 +35,7 @@ Buying cards just because you can is a common mistake. A bloated deck delays you
 Buy mediocre cards only when they solve a concrete problem:
 
 - A missing icon.
-- Enough persuasion for a key future buy.
+- Enough [[Dune/Persuasion|persuasion]] for a key future buy.
 - A needed combat swing.
 - A synergy with your leader or expansion module.
 
@@ -44,8 +44,18 @@ Buy mediocre cards only when they solve a concrete problem:
 Bludgeon's transcript separates card buys by strategic lane:
 
 - Influence and faction-access cards support faction-track points and alliances.
-- Persuasion cards support High Council and The Spice Must Flow.
+- [[Dune/Persuasion|Persuasion]] cards support [[Dune/High Council|High Council]] and [[Dune/The Spice Must Flow|The Spice Must Flow]].
 - Swords, troop deployment, and combat effects support conflict wins.
 - Draw and trash effects improve consistency.
 
 Do not switch lanes just because a flashy card appears. A strong card for the wrong deck still slows the hand that needs to score now.
+
+## Related
+
+- [[Dune/Agents and Worker Placement|Agents and Worker Placement]]
+- [[Dune/Faction Tracks and Alliances|Faction Tracks and Alliances]]
+- [[Dune/Resource Economy|Resource Economy]]
+- [[Dune/Combat and Conflicts|Combat and Conflicts]]
+- [[Dune/Immortality|Immortality]]
+- [[Dune/Persuasion|Persuasion]]
+- [[Dune/The Spice Must Flow|The Spice Must Flow]]

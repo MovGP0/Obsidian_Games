@@ -13,7 +13,15 @@
     "bludgeon": 3,
     "board-games": 1,
     "dune": 2,
-    "dune-imperium": 4
+    "dune-imperium": 4,
+    "dune-imperium/combat": 1,
+    "dune-imperium/concepts": 2,
+    "dune-imperium/expansions": 3,
+    "dune-imperium/factions": 4,
+    "dune-imperium/resources": 5,
+    "dune-imperium/scoring": 6,
+    "dune-imperium/strategy": 7,
+    "dune-imperium/tempo": 8
   },
   "tagColors": {},
   "_version": 4

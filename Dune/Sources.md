@@ -6,6 +6,8 @@ tags:
 ---
 # Sources
 
+These sources support [[Dune/Strategy Overview|Strategy Overview]], [[Dune/Bludgeon Dune Imperium Notes|Bludgeon Dune Imperium Notes]], and the expansion pages.
+
 ## Official
 
 - [Dire Wolf Dune: Imperium resources](https://www.direwolfdigital.com/dune-imperium/resources/)
@@ -28,6 +30,11 @@ tags:
 - [Card Rankings IMMORTALITY Edition](https://www.youtube.com/watch?v=U-q1yQaDwJg)
 - [Dune Imperium Rise of IX - Opening Moves and Strategy Tips](https://www.youtube.com/watch?v=JwKHYaPDClM)
 - [An UPRISING Primer For Dune Imperium Players](https://www.youtube.com/watch?v=93gOjvyvfU8)
+- [UPRISING DIGITAL ANNOUNCED!! ALL THE DETAILS!!](https://www.youtube.com/watch?v=14cgCQ3AU3c)
+- [Take It To The BANK](https://www.youtube.com/watch?v=DH0NU98AsX4)
+- [Can I Recover From A Rough Start?](https://www.youtube.com/watch?v=0WUBFRx1rKM)
+- [Wait, If These Are The Cards I'm TRASHING...](https://www.youtube.com/watch?v=yBg5CplxoPI)
+- [Armand is TRASH (ing a lot of cards)](https://www.youtube.com/watch?v=PfHWbsBgIgc)
 - [BLOODLINES FULLY REVEALED](https://www.youtube.com/watch?v=3tcuCQiuvTA)
 - [Bloodlines: Good with Original Imperium?? FULL REVIEW](https://www.youtube.com/watch?v=DqMIBgI-igo)
 - [Dune Imperium Bloodlines - Unboxing](https://www.youtube.com/watch?v=zj_-8JA4MH4)
@@ -39,3 +46,17 @@ tags:
 I installed `yt-dlp`, enumerated 460 videos from the Bludgeon channel, and used locally extracted captions for the public strategy, primer, ranking, and Bloodlines review videos listed above. I also used public RSS/video metadata and transcript-summary pages as supporting discovery and cross-checks.
 
 Two explicit strategy/teaser videos were members-only and not accessible. The 207 ranked playthroughs and tournament videos were indexed by metadata, but not fully transcribed into notes because their commentary is highly board-state specific.
+
+## Related
+
+- [[Dune/Bludgeon Dune Imperium Notes|Bludgeon Dune Imperium Notes]]
+- [[Dune/Dune Imperium Base Game|Dune Imperium Base Game]]
+- [[Dune/Rise of Ix|Rise of Ix]]
+- [[Dune/Immortality|Immortality]]
+- [[Dune/Uprising|Uprising]]
+- [[Dune/Bloodlines|Bloodlines]]
+- [[Dune/Guild Bank and Economy-Centric Games|Guild Bank and Economy-Centric Games]]
+- [[Dune/Rough Start Recovery|Rough Start Recovery]]
+- [[Dune/Trash-Heavy Deck Improvement|Trash-Heavy Deck Improvement]]
+- [[Dune/Uprising Day-One Learning|Uprising Day-One Learning]]
+- [[Dune/Leader Selection Before Game Start|Leader Selection Before Game Start]]

@@ -3,10 +3,11 @@ title: Dune Imperium Strategy Overview
 tags:
   - Dune-Imperium
   - board-games
+  - Dune-Imperium/Strategy
 ---
 # Strategy Overview
 
-Dune: Imperium is a deck-building worker-placement game. Cards determine where your agents can go, agents convert cards into board actions, and your reveal turn converts the rest of your hand into persuasion and combat.
+Dune: Imperium is a deck-building worker-placement game. [[Dune/Deck Building and Card Quality|Cards]] determine where your [[Dune/Agents and Worker Placement|agents]] can go, agents convert cards into board actions, and your [[Dune/Turn Sequence|reveal turn]] converts the rest of your hand into persuasion and combat.
 
 The game is not about controlling a map in the classic-Dune sense. It is about creating enough scoring pressure across several lanes that opponents cannot block all of them.
 
@@ -42,3 +43,10 @@ Not useful:
 - Storm movement.
 - Binding negotiation logic.
 - Faction plans from the 1979-style game.
+
+## Related
+
+- [[Dune/Core Strategic Principles|Core Strategic Principles]]
+- [[Dune/Game Phase Identification|Game Phase Identification]]
+- [[Dune/Turn Sequence|Turn Sequence]]
+- [[Dune/Late Game Checklist|Late Game Checklist]]

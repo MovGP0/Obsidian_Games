@@ -3,10 +3,11 @@ title: Dune Imperium Uprising
 tags:
   - Dune-Imperium
   - board-games
+  - Dune-Imperium/Expansions
 ---
 # Uprising
 
-Dune: Imperium - Uprising is a standalone game in the Dune: Imperium system, not just a small expansion.
+Dune: Imperium - Uprising is a standalone game in the Dune: Imperium system, not just a small expansion. Compare it against [[Dune/Dune Imperium Base Game|base Dune: Imperium]] before importing habits from the original board.
 
 ## What Changes
 
@@ -20,7 +21,7 @@ Dune: Imperium - Uprising is a standalone game in the Dune: Imperium system, not
 
 ## Strategic Shift
 
-Uprising increases the importance of tactical positioning and explosive conflict turns. Worms can double conflict rewards, so combat math changes sharply once Maker Hooks are in play.
+Uprising increases the importance of tactical positioning and explosive [[Dune/Combat and Conflicts|conflict]] turns. Worms can double conflict rewards, so combat math changes sharply once Maker Hooks are in play.
 
 ## Spies
 
@@ -38,7 +39,7 @@ This makes spy timing a board-control question. A spy placed too early may revea
 
 ## Contracts
 
-Contracts add side objectives and change the value of several spaces. A contract is not just a small bonus; it can reshape the route to Swordmaster, High Council, spies, troops, water, solari, and card draw.
+Contracts add side objectives and change the value of several spaces. A contract is not just a small bonus; it can reshape the route to [[Dune/Swordmaster|Swordmaster]], [[Dune/High Council|High Council]], spies, [[Dune/Troops|troops]], [[Dune/Water|water]], [[Dune/Solari|solari]], and card draw.
 
 Completed contracts can also matter later because some cards care about how many contracts you have finished.
 
@@ -65,7 +66,7 @@ Track battle icons publicly. They can change which future rewards or objectives 
 Several familiar spaces have new incentives:
 
 - High Council has the familiar role but can provide extra value when visited.
-- Swordmaster costs 8 solari for the first player and 6 solari for later players.
+- [[Dune/Swordmaster|Swordmaster]] costs 8 [[Dune/Solari|solari]] for the first player and 6 solari for later players.
 - Mentat is replaced by Imperial Spy, changing the short-term extra-agent pattern.
 - CHOAM and contract spaces create economy lines that do not map cleanly to the base game.
 
@@ -75,8 +76,8 @@ Several familiar spaces have new incentives:
 - Watch Maker Hooks timing.
 - Contracts can create point and economy lines outside the base-game patterns.
 - Objectives create additional pressure around board control and timing.
-- In Uprising plus Ix, some Ix spaces are adapted around contracts, so do not assume the base Ix board flow applies unchanged.
-- Bludgeon rates Bloodlines as the cleanest expansion fit for Uprising in his primer.
+- In Uprising plus [[Dune/Rise of Ix|Ix]], some Ix spaces are adapted around contracts, so do not assume the base Ix board flow applies unchanged.
+- [[Dune/Bludgeon Dune Imperium Notes|Bludgeon]] rates [[Dune/Bloodlines|Bloodlines]] as the cleanest expansion fit for Uprising in his primer.
 
 ## Bludgeon Primer Checklist
 
@@ -92,3 +93,13 @@ Bludgeon's Uprising primer frames the new material as a set of systems to learn:
 - New board spaces: whether a familiar base-game habit is now weaker or stronger.
 
 The practical takeaway is to evaluate each Uprising round by the active module pressure. Some rounds are spy rounds, some are contract rounds, and some are worm-combat rounds.
+
+## Related
+
+- [[Dune/Combat and Conflicts|Combat and Conflicts]]
+- [[Dune/Resource Economy|Resource Economy]]
+- [[Dune/Bloodlines|Bloodlines]]
+- [[Dune/Rise of Ix|Rise of Ix]]
+- [[Dune/Bludgeon Dune Imperium Notes|Bludgeon Dune Imperium Notes]]
+- [[Dune/Swordmaster|Swordmaster]]
+- [[Dune/Troops|Troops]]
