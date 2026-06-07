@@ -1,87 +1,37 @@
 ---
-title: Dune Core Rules and Assumptions
+title: Dune Imperium Core Rules and Assumptions
 tags:
-  - Dune
+  - Dune-Imperium
   - board-games
 ---
 # Core Rules and Assumptions
 
-These notes use a standard classic-Dune baseline unless stated otherwise.
+These notes use **Dune: Imperium** as the baseline unless a page explicitly says it is about **Uprising** or an expansion.
 
-| Topic | Baseline used |
+## Baseline
+
+| Topic | Assumption |
 |---|---|
-| Edition | GF9 2019 classic-Dune reprint rules, same strategic structure as the 1979-style game |
-| Player count | 6 players by default |
-| Mode | **Basic game first**; advanced-only shifts are called out only where they materially change strategy |
-| Alliances | Default alliance rules: up to 2 players per alliance, **4 strongholds** to win together |
-| Expansions | None |
-| House rules | None assumed |
-| Smaller games | Use official player-count recommendations if not playing 6 |
+| Game | Dune: Imperium |
+| Publisher | Dire Wolf |
+| Player count | 1-4; strategic notes mainly assume 3-4 humans |
+| Core mechanisms | Deck-building plus worker placement |
+| Victory | The game ends when a player reaches 10 or more VP at the end of a round, or when the Conflict deck is empty |
+| Starting deck | Each player starts with the same 10-card deck |
+| Agents | Start with 2 agents; Swordmaster gives a third |
 
-## Victory
+## What Makes Dune: Imperium Different
 
-The usual victory condition is:
+Cards are both action access and deck-building material. On an agent turn, a card's icons determine which board spaces you can use. On the reveal turn, unused cards provide persuasion, combat, and reveal effects.
 
-- Control **3 strongholds alone** at the end of a turn.
-- Control **4 strongholds with an alliance**, depending on player count and rules.
+That creates the central tension:
 
-The path to that victory is political. You are rarely just marching into three strongholds uncontested.
+> A card in hand is either a worker-placement key now or reveal power later.
 
-For smaller games, common official recommendations are:
+Good play is often about sequencing the hand so you do not waste either side.
 
-- 3 players: Atreides, Harkonnen, and Fremen.
-- 4 players: consider leaving out Guild and Bene Gesserit.
-- 5 players: try no Bene Gesserit.
+## Compatibility Notes
 
-## Turn structure
-
-The standard turn sequence is:
-
-1. Storm
-2. Spice Blow and Nexus
-3. CHOAM Charity
-4. Bidding
-5. Revival
-6. Shipment and Movement
-7. Battle
-8. Spice Harvest
-9. Mentat Pause
-
-The major strategic inflection points are Storm, Nexus, Bidding, Shipment and Movement, and Battle.
-
-## Shipping and movement
-
-In the basic game:
-
-- Shipping into a stronghold costs 1 spice per force.
-- Shipping elsewhere costs 2 spice per force.
-- Stronghold shipping is therefore the most efficient deployment in the game.
-- Non-stronghold deployment needs a concrete payoff: harvest, denial, positional pressure, or a winning threat.
-
-Control of Arrakeen or Carthag is disproportionately important because a force in either city turns on ornithopter movement of up to three adjacent territories. That mobility does not only defend the city. It changes your reach across the board.
-
-## Bidding and cards
-
-Bidding starts from declared hand sizes, not declared card quality. In the basic game, the hand limit is 4 cards.
-
-This creates two practical consequences:
-
-- A player with few cards may be vulnerable, or may be baiting you.
-- A player with many cards is more likely to have a battle package, but may still be holding junk.
-
-Track both what players buy and what they keep after battles.
-
-## Advanced rules caveat
-
-Because this is a **basic** strategy guide, the default recommendations are anchored in the basic game.
-
-That matters. Advanced rules add:
-
-- Double spice blow.
-- City income.
-- Faction-specific Karama powers.
-- Spice-supported combat.
-
-Those changes significantly alter Fremen and Emperor combat valuation, Karama timing, and the economic value of city occupation. They also make some Bene Gesserit and Guild tricks richer than they are in strict basic play.
-
-The basic-game recommendations still help, but advanced play rewards more precise economy, combat support, and faction-power timing.
+- [[Dune/Rise of Ix|Rise of Ix]] and [[Dune/Immortality|Immortality]] were built for base Dune: Imperium.
+- [[Dune/Uprising|Uprising]] is a standalone sequel/reimplementation with spies, contracts, objectives, and worms.
+- [[Dune/Bloodlines|Bloodlines]] supports both base Dune: Imperium and Uprising, with different modules depending on the base used.

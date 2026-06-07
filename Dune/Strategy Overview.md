@@ -1,30 +1,44 @@
 ---
-title: Dune Strategy Overview
+title: Dune Imperium Strategy Overview
 tags:
-  - Dune
+  - Dune-Imperium
   - board-games
 ---
 # Strategy Overview
 
-This guide assumes the **Gale Force Nine 2019 / 1979-style Dune ruleset**, treated primarily as a **six-player standard game with default alliance rules**, no expansions, and no house-rule balance patches.
+Dune: Imperium is a deck-building worker-placement game. Cards determine where your agents can go, agents convert cards into board actions, and your reveal turn converts the rest of your hand into persuasion and combat.
 
-In that baseline, Dune is not mainly a game of winning battles. It is a game of **turn timing, force projection, hand quality, and alliance leverage**.
+The game is not about controlling a map in the classic-Dune sense. It is about creating enough scoring pressure across several lanes that opponents cannot block all of them.
 
-## Strategy Articles
+## Main Scoring Lanes
 
-- [[Dune/Core Strategic Principles|Core Strategic Principles]]
-- [[Dune/Spice Economy|Spice Economy]]
-- [[Dune/Mobility Storm and Turn Order|Mobility, Storm, and Turn Order]]
-- [[Dune/Turn Sequence|Turn Sequence]]
-- [[Dune/Strongholds|Strongholds]]
-- [[Dune/Game Stages and Common Mistakes|Game Stages and Common Mistakes]]
+- Faction influence and alliance points.
+- Conflict rewards.
+- The Spice Must Flow.
+- Intrigue and endgame scoring.
+- Expansion-specific points from shipping, tech, research, contracts, objectives, or worms.
 
-## Short version
+## Core Heuristic
 
-The most important high-level rule interaction is:
+Ask this on every turn:
 
-> Movement wins the board, but cards decide whether your move sticks.
+> Is this action creating a point, protecting a point, or building the economy that gets me to a point?
 
-The basic plan is:
+If the answer is no, the action needs a very strong tactical reason.
 
-> Get spice, buy cards, avoid bad fights, stay politically useful, and only commit heavily when a stronghold swing can create or prevent a win.
+## What Carried Over From Classic Dune
+
+Still useful:
+
+- Timing matters more than raw strength.
+- Hidden information matters.
+- Overcommitting to combat can lose the game.
+- Table awareness matters, especially around who can score this round.
+
+Not useful:
+
+- Stronghold counting.
+- Traitors.
+- Storm movement.
+- Binding negotiation logic.
+- Faction plans from the 1979-style game.

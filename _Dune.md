@@ -1,47 +1,49 @@
 ---
-title: Dune
+title: Dune Imperium
 tags:
   - Dune
+  - Dune-Imperium
   - board-games
 ---
-# Dune
+# Dune: Imperium
 
-Notes for the Gale Force Nine / 1979-style **Dune** board game.
+Notes for **Dune: Imperium**, **Dune: Imperium - Uprising**, and the expansion modules.
 
-This is about classic Dune, not [[Dune Imperium]].
+This is not the Gale Force Nine / 1979-style negotiation game. The relevant system here is the Dire Wolf deck-building and worker-placement game.
 
-## Articles
+## Core Articles
 
 - [[Dune/Strategy Overview|Strategy Overview]]
 - [[Dune/Core Rules and Assumptions|Core Rules and Assumptions]]
-- [[Dune/Faction Plans|Faction Plans]]
-- [[Dune/Diplomacy Cards and Combat|Diplomacy, Cards, and Combat]]
-- [[Dune/Game Stages and Common Mistakes|Game Stages and Common Mistakes]]
-- [[Dune/Bludgeon Claims|Bludgeon Claims]]
-
-## Smaller Topics
-
-- [[Dune/Core Strategic Principles|Core Strategic Principles]]
-- [[Dune/Spice Economy|Spice Economy]]
-- [[Dune/Mobility Storm and Turn Order|Mobility, Storm, and Turn Order]]
 - [[Dune/Turn Sequence|Turn Sequence]]
-- [[Dune/Strongholds|Strongholds]]
-- [[Dune/Alliances and Negotiation|Alliances and Negotiation]]
-- [[Dune/Treachery Cards|Treachery Cards]]
-- [[Dune/Combat Heuristics|Combat Heuristics]]
-- [[Dune/Leaders and Traitors|Leaders and Traitors]]
-- [[Dune/Stage Priorities|Stage Priorities]]
-- [[Dune/Sample Opening Template|Sample Opening Template]]
+- [[Dune/Core Strategic Principles|Core Strategic Principles]]
+- [[Dune/Opening Priorities|Opening Priorities]]
+- [[Dune/Agents and Worker Placement|Agents and Worker Placement]]
+- [[Dune/Deck Building and Card Quality|Deck Building and Card Quality]]
+- [[Dune/Resource Economy|Resource Economy]]
+- [[Dune/Faction Tracks and Alliances|Faction Tracks and Alliances]]
+- [[Dune/Combat and Conflicts|Combat and Conflicts]]
+- [[Dune/Intrigue Cards|Intrigue Cards]]
 - [[Dune/Late Game Checklist|Late Game Checklist]]
-- [[Dune/Common Beginner Mistakes|Common Beginner Mistakes]]
-- [[Dune/Final Practical Advice|Final Practical Advice]]
+- [[Dune/Common Mistakes|Common Mistakes]]
 
-## Short version
+## Expansion Articles
 
-Dune is not mainly a combat game. It is a game of information, timing, bribery, negotiation, traitors, asymmetric powers, and controlled risk.
+- [[Dune/Dune Imperium Base Game|Dune Imperium Base Game]]
+- [[Dune/Rise of Ix|Rise of Ix]]
+- [[Dune/Immortality|Immortality]]
+- [[Dune/Uprising|Uprising]]
+- [[Dune/Bloodlines|Bloodlines]]
 
-The basic plan is:
+## Bludgeon
 
-> Get spice, buy cards, avoid bad fights, stay politically useful, and commit heavily only when a stronghold swing can create or prevent a win.
+- [[Dune/Bludgeon Dune Imperium Notes|Bludgeon Dune Imperium Notes]]
+- [[Dune/Sources|Sources]]
 
-Winning usually comes from taking strongholds at the right moment, not from fighting every battle available.
+## Short Version
+
+Dune: Imperium is about converting limited agent turns into points. The recurring strategic question is:
+
+> Does this action move me toward a point, a future point engine, or a conflict I can win efficiently?
+
+The transferable idea from classic Dune is timing. The non-transferable parts are traitors, storm movement, table-binding diplomacy, and stronghold conquest.

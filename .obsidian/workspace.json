@@ -11,10 +11,14 @@
             "id": "74b2d871bd96a709",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Dune/Turn Sequence.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Turn Sequence"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dune/Turn Sequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Turn Sequence"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dune/Turn Sequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Turn Sequence"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Dune/Turn Sequence.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Turn Sequence"
             }
           }
         ]
@@ -178,14 +185,33 @@
   },
   "active": "74b2d871bd96a709",
   "lastOpenFiles": [
-    "Dune/Diplomacy Cards and Combat.md",
-    "Dune/Core Rules and Assumptions.md",
-    "Dune/Bludgeon Claims.md",
+    "Dune/Uprising.md",
+    "Dune/Turn Sequence.md",
     "Dune/Strategy Overview.md",
-    "Dune/Game Stages and Common Mistakes.md",
-    "Dune/Faction Plans.md",
+    "Dune/Sources.md",
+    "Dune/Rise of Ix.md",
+    "Dune/Resource Economy.md",
+    "Dune/Opening Priorities.md",
+    "Dune/Late Game Checklist.md",
+    "Dune/Intrigue Cards.md",
+    "Dune/Immortality.md",
+    "Dune/Faction Tracks and Alliances.md",
+    "Dune/Dune Imperium Base Game.md",
+    "Dune/Deck Building and Card Quality.md",
+    "Dune/Core Strategic Principles.md",
+    "Dune/Core Rules and Assumptions.md",
+    "Dune/Common Mistakes.md",
+    "Dune/Combat and Conflicts.md",
+    "Dune/Bludgeon Dune Imperium Notes.md",
+    "Dune/Bloodlines.md",
+    "Dune/Agents and Worker Placement.md",
     "_Dune.md",
-    "Untitled.base",
-    "2026-06-08.md"
+    "Dune",
+    "Dune/Bludgeon Source Limitations.md",
+    "Dune/Bludgeon Claim - Bene Gesserit Combat and Avoidance.md",
+    "Dune/Bludgeon Claim - Three Card Combat.md",
+    "Dune/Bludgeon Claim - Atreides and Bene Gesserit.md",
+    "Dune/Final Practical Advice.md",
+    "Untitled.base"
   ]
 }

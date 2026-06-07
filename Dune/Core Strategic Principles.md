@@ -1,64 +1,48 @@
 ---
-title: Dune Core Strategic Principles
+title: Dune Imperium Core Strategic Principles
 tags:
-  - Dune
+  - Dune-Imperium
   - board-games
 ---
 # Core Strategic Principles
 
-The core arc is simple: amass spice, convert it into weaponry and defenses, then position enough force to move suddenly into key strongholds and defend them.
+## Points Are Scarce
 
-## Executive summary
+Most resources are only useful because they become points later. Spice, solari, water, troops, cards, and intrigue are not goals by themselves.
 
-The most important high-level rule interaction is this:
+Track where your next 3 points might come from. If you cannot name them, your current economy is probably unfocused.
 
-> Movement wins the board, but cards decide whether your move sticks.
+## Agent Turns Are the Real Bottleneck
 
-The storm determines first player for bidding, shipping, and movement. First player gets the tie-break edge in battle, while last movement often gets the best surprise angle because surprise takeovers cannot be countered that turn.
+You have few agent turns. A strong deck does not help if it gives you icons at the wrong time or sends you to low-impact spaces.
 
-If you remember only one board principle, remember that one.
+Prioritize:
 
-Your default priorities should be:
+- Getting a third agent through Swordmaster.
+- Building hands that can reach faction spaces.
+- Gaining draw so you can see more of your deck before reveal.
+- Avoiding dead icons.
 
-- Preserve your mobility anchor if you have one.
-- Do not spend yourself spice-poor before you can exploit cards.
-- Fight when you have **information or card-quality asymmetry**.
-- Choose alliances that solve your actual problem on the current board, not your theoretical problem on turn one.
-- Strike for strongholds late enough that the table has limited time to answer.
+## Card Quality Beats Card Quantity
 
-The Atreides plus Bene Gesserit alliance is a real endgame package because information plus battle control compresses uncertainty. But it is not always the correct alliance. The useful takeaway is not "always ally Atreides and Bene Gesserit"; it is that **information plus battle control is powerful**.
+Adding too many mediocre cards makes it harder to draw the cards that actually open scoring lines.
 
-Bene Gesserit is powerful because the faction couples **combat leverage** with the ability to shape when and where the table must care about it. That is especially true in advanced play. In the strict basic game, some of the most famous coexistence-style tricks are not fully online yet.
+Good cards usually do at least one of these:
 
-## Basic model
+- Open faction access.
+- Provide draw or trashing.
+- Generate resources on agent turns.
+- Create combat bursts.
+- Provide enough persuasion to support The Spice Must Flow.
+- Carry expansion-specific synergy.
 
-The basic strategy model is:
+## Conflicts Are Auctions
 
-1. Build spice.
-2. Convert spice into cards.
-3. Keep mobile forces within striking distance of strongholds.
-4. Go for the win only when you can plausibly hold against everyone still in range.
+Conflict is not "fight because you can." It is an auction for rewards.
 
-That implies the most important skill in Dune: **threat accounting**.
+Before committing troops, ask:
 
-Never ask only:
-
-> Can I take the third stronghold?
-
-Ask:
-
-> Who still moves after me, what cards do they plausibly hold, and can they turn my move into a trap?
-
-## Movement into battle
-
-The movement-to-battle conversion is where many new players lose.
-
-The correct question is rarely:
-
-> Who has more troops?
-
-It is usually:
-
-> Who has the better card and information profile?
-
-If your opponent can kill your leader, or if you cannot survive a traitor reveal, raw force count is often a mirage.
+- What reward am I actually buying?
+- Who can still add combat after me?
+- Do I need first place, or is second enough?
+- Is this conflict worth losing troops that could win a later point conflict?
