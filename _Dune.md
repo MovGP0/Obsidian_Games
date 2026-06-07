@@ -17,6 +17,7 @@ This is not the Gale Force Nine / 1979-style negotiation game. The relevant syst
 - [[Dune/Core Rules and Assumptions|Core Rules and Assumptions]]
 - [[Dune/Turn Sequence|Turn Sequence]]
 - [[Dune/Core Strategic Principles|Core Strategic Principles]]
+- [[Dune/Game Phase Identification|Game Phase Identification]]
 - [[Dune/Opening Priorities|Opening Priorities]]
 - [[Dune/Agents and Worker Placement|Agents and Worker Placement]]
 - [[Dune/Deck Building and Card Quality|Deck Building and Card Quality]]

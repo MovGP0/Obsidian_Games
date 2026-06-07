@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3977c724175bfec7",
+        "id": "fcfd4ae91e2166c0",
         "type": "tabs",
         "children": [
           {
-            "id": "74b2d871bd96a709",
+            "id": "e9429d92ba4cbd7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dune/Turn Sequence.md",
+                "file": "_Dune.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Turn Sequence"
+              "title": "_Dune"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dune/Turn Sequence.md",
+                "file": "_Dune.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Turn Sequence"
+              "title": "Backlinks for _Dune"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dune/Turn Sequence.md",
+                "file": "_Dune.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Turn Sequence"
+              "title": "Outgoing links from _Dune"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dune/Turn Sequence.md",
+                "file": "_Dune.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Turn Sequence"
+              "title": "Outline of _Dune"
             }
           }
         ]
@@ -183,7 +183,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "74b2d871bd96a709",
+  "active": "e9429d92ba4cbd7d",
   "lastOpenFiles": [
     "Dune/Uprising.md",
     "Dune/Turn Sequence.md",
@@ -195,6 +195,7 @@
     "Dune/Late Game Checklist.md",
     "Dune/Intrigue Cards.md",
     "Dune/Immortality.md",
+    "Dune/Game Phase Identification.md",
     "Dune/Faction Tracks and Alliances.md",
     "Dune/Dune Imperium Base Game.md",
     "Dune/Deck Building and Card Quality.md",
@@ -211,7 +212,6 @@
     "Dune/Bludgeon Claim - Bene Gesserit Combat and Avoidance.md",
     "Dune/Bludgeon Claim - Three Card Combat.md",
     "Dune/Bludgeon Claim - Atreides and Bene Gesserit.md",
-    "Dune/Final Practical Advice.md",
     "Untitled.base"
   ]
 }

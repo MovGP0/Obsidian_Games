@@ -46,3 +46,16 @@ Before committing troops, ask:
 - Who can still add combat after me?
 - Do I need first place, or is second enough?
 - Is this conflict worth losing troops that could win a later point conflict?
+
+## Think From the Endgame Backward
+
+Bludgeon's opening advice repeatedly points back to late-game scoring. Do not choose an opening because it is generically strong. Choose it because it makes a plausible final score path.
+
+Examples:
+
+- Swordmaster opening: I am buying more agent turns and will use them for faction pressure, economy, or conflict.
+- High Council opening: I am making repeated high-persuasion reveals and likely buying The Spice Must Flow.
+- Conflict opening: I am building troop flow, combat cards, and timing for point conflicts.
+- Ix shipping opening: I am using the shipping track to convert tempo into solari, spice, tech, troops, or points.
+- Immortality opening: I am using research, trashing, graft, or Tleilaxu access to create a stronger deck and point route.
+- Uprising opening: I am building around spies, contracts, objectives, or worm-enabled combat.

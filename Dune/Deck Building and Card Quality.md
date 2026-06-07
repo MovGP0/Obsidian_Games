@@ -22,9 +22,11 @@ Prioritize cards that:
 
 ## Faction Access
 
-Bludgeon's basic-strategy notes call out faction access as a key card-buying priority. That is sound: faction spaces produce influence, and influence creates points at 2 and alliance pressure at 4.
+Bludgeon's basic-strategy transcript calls out faction access as a key card-buying priority. That is sound: faction spaces produce influence, and influence creates points at 2 and alliance pressure at 4.
 
 Cards like Power Play are strong because they can open faction spaces and accelerate influence at the same time.
+
+Other influence tools he calls out include CHOAM Directorship and Shifting Allegiances. The point is not that those cards are always correct; it is that access plus influence is one of the cleanest ways to turn a card buy into victory points.
 
 ## Do Not Buy Bulk
 
@@ -36,3 +38,14 @@ Buy mediocre cards only when they solve a concrete problem:
 - Enough persuasion for a key future buy.
 - A needed combat swing.
 - A synergy with your leader or expansion module.
+
+## Match The Buy To The Plan
+
+Bludgeon's transcript separates card buys by strategic lane:
+
+- Influence and faction-access cards support faction-track points and alliances.
+- Persuasion cards support High Council and The Spice Must Flow.
+- Swords, troop deployment, and combat effects support conflict wins.
+- Draw and trash effects improve consistency.
+
+Do not switch lanes just because a flashy card appears. A strong card for the wrong deck still slows the hand that needs to score now.
