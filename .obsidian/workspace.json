@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f36f556516ed6f2c",
+        "id": "05220feefdde8796",
         "type": "tabs",
         "children": [
           {
-            "id": "7bc29284195db5e3",
+            "id": "b49fcb7c7b6b329a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -80,7 +80,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -186,8 +187,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "7bc29284195db5e3",
+  "active": "b49fcb7c7b6b329a",
   "lastOpenFiles": [
+    "Dune/Guild Bank and Economy-Centric Games.md",
+    "Dune/Bludgeon Dune Imperium Notes.md",
     "Dune/Deck Building and Card Quality.md",
     "Dune/Faction Tracks and Alliances.md",
     "Dune/Solari.md",
@@ -197,8 +200,6 @@
     "Dune/Leader Selection Before Game Start.md",
     "Dune/Uprising Day-One Learning.md",
     "Dune/Trash-Heavy Deck Improvement.md",
-    "Dune/Guild Bank and Economy-Centric Games.md",
-    "Dune/Bludgeon Dune Imperium Notes.md",
     "Dune/Dune Imperium Base Game.md",
     "Dune/Agents and Worker Placement.md",
     "_Dune.md",
